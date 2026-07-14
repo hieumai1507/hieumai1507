@@ -1,13 +1,15 @@
 # Hi there, I'm Hieu! 👋 Fullstack & DevOps Enthusiast
 
-I am a **Fullstack Engineer** with a strong background in developing robust fintech ecosystems and high-throughput financial modules. I specialize in building reliable transaction flows and integrating AI-driven workflows into production environments[cite: 1].
+I am a **Fullstack Engineer** with a strong background in developing robust fintech ecosystems and high-throughput financial modules[cite: 1, 3, 4]. I specialize in building reliable transaction flows and integrating AI-driven workflows into production environments[cite: 1].
 
 ### 🛠 Tech Stack & Expertise
 <p align="left">
   <!-- Languages & Frameworks -->
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <br>
   <!-- DevOps & Monitoring -->
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -18,7 +20,8 @@ I am a **Fullstack Engineer** with a strong background in developing robust fint
 
 ### 🚀 Professional Highlights
 * **Fintech Core:** Experienced in developing critical financial modules, loyalty systems, and transaction processing with strict ACID compliance[cite: 1, 3].
-* **System Monitoring & Reliability:** Proficient in managing infrastructure health using **Kubernetes**, and implementing log aggregation and visualization with **Elasticsearch** and **Kibana** to ensure system stability.
+* **ERP & Business Ecosystems:** Proven track record in architecting and maintaining large-scale **ERP, CRM, and E-commerce ecosystems** (HECCI management ecosystem), bridging complex accounting, manufacturing, and POS workflows[cite: 1, 3, 4].
+* **System Monitoring & Reliability:** Proficient in managing infrastructure health using **Kubernetes**, and implementing log aggregation with **Elasticsearch/Kibana** to ensure system stability.
 * **High-Throughput Engineering:** Successfully architected background processing pipelines (BullMQ/RabbitMQ) handling 10,000+ daily jobs with <1% failure rate[cite: 1, 3, 4].
 * **AI Integration:** Bridge the gap between platforms and AI by integrating RAG pipelines, LLM APIs (OpenAI, Claude), and vector databases like **Milvus**[cite: 1, 4].
 
