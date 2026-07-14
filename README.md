@@ -1,6 +1,6 @@
 # Hi there, I'm Hieu! 👋 Fullstack & DevOps Enthusiast
 
-I am a **Fullstack Engineer** with a strong background in developing robust fintech ecosystems and high-throughput financial modules[cite: 1, 3, 4]. I specialize in building reliable transaction flows and integrating AI-driven workflows into production environments[cite: 1].
+I am a **Fullstack Engineer** with a strong background in developing robust fintech ecosystems and high-throughput financial modules. I specialize in building reliable transaction flows and integrating AI-driven workflows into production environments.
 
 ### 🛠 Tech Stack & Expertise
 <p align="left">
@@ -23,11 +23,11 @@ I am a **Fullstack Engineer** with a strong background in developing robust fint
 </p>
 
 ### 🚀 Professional Highlights
-* **Fintech Core:** Experienced in developing critical financial modules, loyalty systems, and transaction processing with strict ACID compliance[cite: 1, 3].
-* **ERP & Business Ecosystems:** Proven track record in architecting and maintaining large-scale **ERP, CRM, and E-commerce ecosystems** (HECCI management ecosystem), bridging complex accounting, manufacturing, and POS workflows[cite: 1, 3, 4].
+* **Fintech Core:** Experienced in developing critical financial modules, loyalty systems, and transaction processing with strict ACID compliance.
+* **ERP & Business Ecosystems:** Proven track record in architecting and maintaining large-scale **ERP, CRM, and E-commerce ecosystems** (HECCI management ecosystem), bridging complex accounting, manufacturing, and POS workflows.
 * **System Monitoring & Reliability:** Proficient in managing infrastructure health using **Kubernetes**, and implementing log aggregation with **Elasticsearch/Kibana** to ensure system stability.
-* **High-Throughput Engineering:** Successfully architected background processing pipelines (BullMQ/RabbitMQ) handling 10,000+ daily jobs with <1% failure rate[cite: 1, 3, 4].
-* **AI Integration:** Bridge the gap between platforms and AI by integrating RAG pipelines, LLM APIs (OpenAI, Claude), and vector databases like **Milvus**[cite: 1, 4].
+* **High-Throughput Engineering:** Successfully architected background processing pipelines (BullMQ/RabbitMQ) handling 10,000+ daily jobs with <1% failure rate.
+* **AI Integration:** Bridge the gap between platforms and AI by integrating RAG pipelines, LLM APIs (OpenAI, Claude), and vector databases like **Milvus**.
 
 ### 📈 GitHub Stats
 <p align="center">
