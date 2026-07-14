@@ -1,33 +1,37 @@
-# Hi there, I'm Hieu! 👋
+# Hi there, I'm Hieu! 👋 Fullstack & DevOps Enthusiast
 
-I am a passionate **Fullstack Developer** dedicated to building optimized, scalable web applications and efficient data pipelines. I hold a Bachelor's degree in Information Technology from Thang Long University and am actively looking for new opportunities to contribute and grow in a dynamic tech environment.
+I am a **Fullstack Engineer** with a strong background in developing robust fintech ecosystems and high-throughput financial modules. I specialize in building reliable transaction flows and integrating AI-driven workflows into production environments[cite: 1].
 
-### 👨‍💻 About Me
-* 🔭 I specialize in developing robust applications using **Node.js, NestJS, React, Next.js**, and **TypeScript**, alongside experience with **Python** frameworks.
-* 🕷️ I have hands-on experience designing and implementing custom data crawling tools to aggregate product and order information from major e-commerce platforms (with deep handling for **TemuProducts**, Etsy, and Shopee).
-* 🗄️ I frequently work on database management and optimization workflows, utilizing **MongoDB** and vector databases like **Milvus**.
-* 🌱 I am continuously learning and exploring new technologies to refine my software architecture skills and deliver high-quality solutions.
-
-### 🛠️ Tech Stack & Tools
+### 🛠 Tech Stack & Expertise
 <p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <!-- Languages & Frameworks -->
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <br>
+  <!-- DevOps & Monitoring -->
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
+
+### 🚀 Professional Highlights
+* **Fintech Core:** Experienced in developing critical financial modules, loyalty systems, and transaction processing with strict ACID compliance[cite: 1, 3].
+* **System Monitoring & Reliability:** Proficient in managing infrastructure health using **Kubernetes**, and implementing log aggregation and visualization with **Elasticsearch** and **Kibana** to ensure system stability.
+* **High-Throughput Engineering:** Successfully architected background processing pipelines (BullMQ/RabbitMQ) handling 10,000+ daily jobs with <1% failure rate[cite: 1, 3, 4].
+* **AI Integration:** Bridge the gap between platforms and AI by integrating RAG pipelines, LLM APIs (OpenAI, Claude), and vector databases like **Milvus**[cite: 1, 4].
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hieumai1507&show_icons=true&theme=tokyonight&hide_border=true" alt="Hieu's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hieumai1507&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-### 📫 Let's Connect / Contact for Work
-I am currently open for full-time roles or freelance opportunities. Feel free to reach out to me for collaborations, tech discussions, or job offers!
+### 📫 Contact for Work
+I am currently open to new opportunities and collaborations in fintech, backend architecture, or DevOps-related roles.
 
-* 📧 **Email:** [Điền email của bạn vào đây, ví dụ: hieumai1507@gmail.com]
-* 💼 **LinkedIn:** [Điền link LinkedIn của bạn]
-* 📄 **Resume/CV:** [Gắn link Google Drive hoặc link dẫn đến file CV PDF của bạn]
+* 📧 **Email:** [hieumai1507@gmail.com](mailto:hieumai1507@gmail.com)
+* 💼 **LinkedIn:** [Hieu Mai](https://www.linkedin.com/in/hieu-mai-634735266/)
+
+---
+*Last updated: July 2026*
