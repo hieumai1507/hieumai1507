@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hieu-mai-634735266/)
 [![Email](https://img.shields.io/badge/Email-hieumai1507@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hieumai1507@gmail.com)
-[![Upwork](https://img.shields.io/badge/Upwork-Ready_for_Hire-14A800?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com)
+[![Upwork](https://img.shields.io/badge/Upwork-Ready_for_Hire-14A800?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01ac626cbdef4a48a8)
 
 I engineer **production-ready backend architectures, secure Model Context Protocol (MCP) servers, and autonomous agent workflows**. With deep roots in high-throughput Fintech transaction systems and distributed cloud infrastructure, I build AI integrations that satisfy strict enterprise zero-trust, ACID compliance, and data privacy standards.
 
